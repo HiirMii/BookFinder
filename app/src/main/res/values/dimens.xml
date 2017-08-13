@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default size of spacing in layout -->
+    <dimen name="default_spacing">16dp</dimen>
+
+    <!-- Author TextView bottom margin -->
+    <dimen name="author_bottom_margin">4dp</dimen>
+
+    <!-- ListView items divider height -->
+    <dimen name="divider_height">1dp</dimen>
+
+    <!-- List item height -->
+    <dimen name="list_item_height">150dp</dimen>
+
+    <!-- ImageView width -->
+    <dimen name="image_width">110dp</dimen>
+</resources>

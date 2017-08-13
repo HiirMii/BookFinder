@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Book Finder</string>
+
+    <!-- Placeholder for book_author TextView -->
+    <string name="book_author">Dan Brown</string>
+
+    <!-- Placeholder for book_title TextView -->
+    <string name="book_title">Angels &amp; Demons</string>
+
+    <!-- Placeholder for book_description TextView -->
+    <string name="book_description">World-renowned Harvard symbologist Robert Langdon is summoned
+        to a Swiss research facility to analyse a cryptic symbol seared into the chest of a murdered
+        physicist. What he discovers is unimaginable: a deadly vendetta against the Catholic Church
+        by a centuries-old underground organisation &#8212; The Illuminati. Desperate to save the Vatican
+        from a powerful time bomb, Langdon joins forces in Rome with the beautiful and mysterious
+        scientist Vittoria Vetra. Together they embark on a frantic hunt though sealed crypts,
+        dangerous catacombs, deserted cathedrals, and the most secretive vault on earth&#8230;the
+        long-forgotten Illuminati lair.</string>
+
+    <!-- Text displayed if no books were found -->
+    <string name="no_books">No books found.</string>
+
+    <!-- Text displayed if there is no internet connection -->
+    <string name="no_internet">No internet connection.</string>
+
+    <!-- Hint text for the SearchView -->
+    <string name="search_hint">Find the book you need.</string>
+</resources>
